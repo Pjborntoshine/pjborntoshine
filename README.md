@@ -6,7 +6,6 @@
 
 • 💬 Ask me about Full Stack.
 
-• 📫 Reach me out @https www.linkedin.comin pjborntoshine
-
+• 📫 Reach me out @[pjborntoshine](https://www.linkedin.com/in/prajwal-jawanjal-08896823a/)
 
 
