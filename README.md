@@ -9,7 +9,7 @@ I also love the logic and structure of coding and always strive to write elegant
 
 ## Fun Fact 🎈:
 <div>
-  <img src="https://github.com/Pjborntoshine/projects-main/blob/7d2ccdf49c1b27e21c101e7d73b695df766fd7b9/Glowing%20Login%20Form/pj12.png" alt="pj" width="180px" align="left">
+  <img src="https://github.com/Pjborntoshine/projects-main/blob/7d2ccdf49c1b27e21c101e7d73b695df766fd7b9/Glowing%20Login%20Form/pj12.png" alt="pj" width="130px" align="left">
 
 
 
