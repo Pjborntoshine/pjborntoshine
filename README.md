@@ -16,7 +16,10 @@ I also love the logic and structure of coding and always strive to write elegant
 
   
   - 🔭 I’m currently working on something cool!
+   
   - 👯 I’m looking to collaborate on cool projects.
+   
   - 💬 Ask me about Full Stack.
+   
   - 📫 Reach me out [@pjborntoshine](https://www.linkedin.com/in/prajwal-jawanjal-08896823a/)
 </div>
