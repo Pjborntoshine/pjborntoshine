@@ -28,14 +28,14 @@ I also love the logic and structure of coding and always strive to write elegant
 
  
 ## 📊 GitHub Stats:
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Pjborntoshine">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=pjborntoshine" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/Pjborntoshine">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=pjborntoshine&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=pjborntoshine&theme=onedark)](https://github.com/Pjborntoshine)
